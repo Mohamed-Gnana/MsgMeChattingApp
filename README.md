@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+Install all the packages in the package.json file so that you can run the app...
+
+### Note
+In the Config/fbconfig file, you should use your firebase configuration in order to run this project. The existing data won't work since the database has been deleted...
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
